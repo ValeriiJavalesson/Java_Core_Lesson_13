@@ -14,7 +14,7 @@ public class Main {
 		verkhovnaRada.addFaction("Вогонь");
 
 		verkhovnaRada.addDeputyToFaction("Слово", 90, 188, "Олег", "Зарічний", 55, true);
-		verkhovnaRada.addDeputyToFaction("Слово", 102, 174, "Віталій", "Яровий", 35, true);
+		verkhovnaRada.addDeputyToFaction("Слово", 102, 174, "Віталій", "Яровий", 35, false);
 		verkhovnaRada.addDeputyToFaction("Вітер", 82, 181, "Андрій", "Коваль", 31, true);
 		verkhovnaRada.addDeputyToFaction("Слово", 77, 191, "Олександр", "Нечипора", 40, true);
 		verkhovnaRada.addDeputyToFaction("Вогонь", 82, 181, "Віталій", "Ганжа", 35, true);
